@@ -35,7 +35,7 @@ We provide the benchmark dataset, i.e., CIFAR100[1] and VOC07+12[2-3].
 ## Acknowledgment
 We thank the following repos providing helpful components/functions in our work.
 
-- [Intern: A new learning paradigm towards general vision]([https://github.com/BruceQFWang/learngene](https://huggingface.co/ynhe/INTERN1.0/tree/main))
+- https://huggingface.co/ynhe/INTERN1.0/tree/main
 
 ## Contact 
 If there are any questions, please feel free to contact with the author:  Xinjie Yao (yaoxinjie@tju.edu.cn). Enjoy the code.
