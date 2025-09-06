@@ -5,7 +5,7 @@ The code repository for "Socialized Coevolution: Advancing a Better World throug
 
 The following packages are required to run the scripts:
 
-Please see [requirements.txt](./requirements.txt) and [env.yaml](./env.yaml)
+Please see [requirements.txt](./requirements.txt).
 
 ## Dataset
 We provide the benchmark dataset, i.e., CIFAR100[1] and VOC07+12[2-3]. 
